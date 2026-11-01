@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="AppliFormSport/AppliFormSport.csproj" Id="fb087fe3-c093-4842-b35a-de61820ccf58" />
+  <Project Path="BiblioADO/BiblioADO.csproj" Id="6b217a3c-7b08-4f80-807c-482a2bbad650" />
+  <Project Path="BiblioMetier/BiblioMetier.csproj" Id="bab27a93-afe1-41f3-8671-34be022f6af2" />
+</Solution>
